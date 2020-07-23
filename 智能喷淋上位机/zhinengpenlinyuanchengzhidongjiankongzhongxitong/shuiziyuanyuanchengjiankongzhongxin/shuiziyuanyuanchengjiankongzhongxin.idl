@@ -1,0 +1,29 @@
+// shuiziyuanyuanchengjiankongzhongxin.idl : shuiziyuanyuanchengjiankongzhongxin.exe 的类型库源
+
+// 此文件将由 MIDL 编译器处理以产生
+// 类型库(shuiziyuanyuanchengjiankongzhongxin.tlb)。
+
+[ uuid(88E04A28-A154-42D7-A632-24BE46C7DA35), version(1.0) ]
+library shuiziyuanyuanchengjiankongzhongxin
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  CshuiziyuanyuanchengjiankongzhongxinDoc 的主调度接口
+	
+	[ uuid(967D4C29-34A0-421C-A997-111CDDFB086E) ]
+	dispinterface Ishuiziyuanyuanchengjiankongzhongxin
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  CshuiziyuanyuanchengjiankongzhongxinDoc 的类信息
+	
+	[ uuid(83317560-B27B-4498-84FD-F456421DC241) ]
+	coclass shuiziyuanyuanchengjiankongzhongxin
+	{
+		[default] dispinterface Ishuiziyuanyuanchengjiankongzhongxin;
+	};
+};

@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/7/6/周五 10:54:37。
+     1>项目“G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\shuiziyuanyuanchengjiankongzhongxin\shuiziyuanyuanchengjiankongzhongxin.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\VS2013\VC\bin\CL.exe /c /I"G:\VS2013\MFC\shuiziyuanyuanchengjiankongzhongxin\shuiziyuanyuanchengjiankongzhongxin\Connector.C++ 1.1\include" /I"C:\Program Files\MySQL\mysql-5.7.22-win32\include" /I"C:\Program Files\MySQL\mysql-5.7.22-win32\lib" /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\shuiziyuanyuanchengjiankongzhongxin.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PCfuwuqi.cpp
+         PCfuwuqi.cpp
+     1>g:\vs2013\mfc\zhinengpenlinyuanchengzhidongjiankongzhongxitong\shuiziyuanyuanchengjiankongzhongxin\pcfuwuqi.cpp(161): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : 参见“inet_addr”的声明
+       Link:
+         G:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\Debug\shuiziyuanyuanchengjiankongzhongxin.exe" /INCREMENTAL /NOLOGO /LIBPATH:"G:\VS2013\MFC\shuiziyuanyuanchengjiankongzhongxin\shuiziyuanyuanchengjiankongzhongxin\Connector.C++ 1.1\include" /LIBPATH:"C:\Program Files\MySQL\mysql-5.7.22-win32\lib" /LIBPATH:"C:\Program Files\MySQL\mysql-5.7.22-win32\include" /LIBPATH:G:\VS2013\MFC\shuiziyuanyuanchengjiankongzhongxin\Debug user32.lib libmysql.lib mysqlcppconn.lib "mysqlcppconn-static.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:G:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\Debug\shuiziyuanyuanchengjiankongzhongxin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\Debug\shuiziyuanyuanchengjiankongzhongxin.lib" /MACHINE:X86 Debug\shuiziyuanyuanchengjiankongzhongxin.res
+         Debug\chaxunfangshi.obj
+         Debug\DlgProxy.obj
+         Debug\lishishujuchaxun.obj
+         Debug\mschart1.obj
+         Debug\PCfuwuqi.obj
+         Debug\shuiziyuanyuanchengjiankongzhongxin.obj
+         Debug\shuiziyuanyuanchengjiankongzhongxinDlg.obj
+         Debug\stdafx.obj
+         shuiziyuanyuanchengjiankongzhongxin.vcxproj -> G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\Debug\shuiziyuanyuanchengjiankongzhongxin.exe
+       RegisterOutput:
+         "G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\Debug\shuiziyuanyuanchengjiankongzhongxin.exe" /RegServer
+     1>已完成生成项目“G:\VS2013\MFC\zhinengpenlinyuanchengzhidongjiankongzhongxitong\shuiziyuanyuanchengjiankongzhongxin\shuiziyuanyuanchengjiankongzhongxin.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.30
